@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maisonmnd.github.io/lokaa/sitemap.xml
+Sitemap: https://maisonmnd.com/lokaa/sitemap.xml
